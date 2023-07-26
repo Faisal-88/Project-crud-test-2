@@ -11,6 +11,9 @@
     - DB_PASSWORD=<your password, if you have>
 8. php artisan key:generate
 
+# Database
+https://drive.google.com/file/d/16B8EHOi2NKMSWSAyVKHTTPNUKf4UrZwr/view?usp=drive_link
+
 # Run Project
 php artisan serve
 
