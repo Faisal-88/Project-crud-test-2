@@ -1,5 +1,5 @@
 # Start Project
-1. https://github.com/Faisal-88/Project-crud-test-2.git
+1. git clone -> https://github.com/Faisal-88/Project-crud-test-2.git
 2. cd Project-crud-test-2
 3. composer install
 4. cp .env.example .env
